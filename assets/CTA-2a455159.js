@@ -1,0 +1,1 @@
+import{j as s,L as t}from"./index-281e8c94.js";const a=()=>s.jsxs("section",{className:"cta",children:[s.jsxs("p",{className:"cta-text",children:["Challenges fuel me. Opportunities inspire me. ",s.jsx("br",{}),"Let’s collaborate."]}),s.jsx(t,{to:"/contact",className:"btn",children:"Contact"})]});export{a as C};
