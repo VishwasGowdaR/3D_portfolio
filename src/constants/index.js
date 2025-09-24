@@ -31,7 +31,7 @@ export const experiences = [
     company_name: "McDonald´s",
     icon: mcdonalds,
     iconBg: "#ecf0a4ff",
-    date: "June 2024 - Present",
+    date: "June 2025 - Present",
     points: [
       "Collaborated with team members to manage high-volume demand and consistently meet service targets.",
       "Adapted quickly in a fast-paced environment, contributing to smooth day-to-day operations.",
