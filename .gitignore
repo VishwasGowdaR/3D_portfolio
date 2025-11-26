@@ -1,0 +1,28 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Package manager caches
+.pnpm-store/
+.npm/
+.yarn/
+
+# Tooling caches
+.eslintcache
+.stylelintcache
+
+# Hosting/framework caches
+.vercel/
+.netlify/
+
+# OS junk
+Thumbs.db
+.DS_Store
